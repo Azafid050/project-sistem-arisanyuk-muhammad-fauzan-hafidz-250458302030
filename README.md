@@ -32,8 +32,18 @@ Tahap kedua adalah menjalankan server lokal dengan memanggil prompt php artisan 
 
 Preview Tampilan : 
 ![Landing page - ArisanYuk](assets/screenshots/landing_page.png)
+![Register - ArisanYuk](assets/screenshots/register.png)
+![Login - ArisanYuk](assets/screenshots/login.png)
+
 ![Dashboard_Admin - ArisanYuk](assets/screenshots/dashboard_admin.png)
 ![Dashboard_Bendahara - ArisanYuk](assets/screenshots/dashboard_bendahara.png)
 ![Dashboard_Anggota - ArisanYuk](assets/screenshots/dashboard_anggota.png)
+
+![Grup_Admin - ArisanYuk](assets/screenshots/grup_admin.png)
+![Grup_Bendahara - ArisanYuk](assets/screenshots/grup_bendahara.png)
+![Grup_Anggota - ArisanYuk](assets/screenshots/grup_anggota.png)
+![Grup_Anggota_detail - ArisanYuk](assets/screenshots/grup_detail_anggota.png)
+![Grup_Anggota_detail2 - ArisanYuk](assets/screenshots/grup_detail_anggota2.png)
+![Grup_Bendahara_detail - ArisanYuk](assets/screenshots/grup_detail_bendahara.png)
 
 
