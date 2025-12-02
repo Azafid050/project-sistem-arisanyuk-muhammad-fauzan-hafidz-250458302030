@@ -48,6 +48,20 @@ Preview Tampilan :
 
 ![Kelola_Admin - ArisanYuk](assets/screenshots/kelola_admin.png)
 
+![Pembayaran_Admin - ArisanYuk](assets/screenshots/pembayaran_admin.png)
+![Pembayaran_Bendahara - ArisanYuk](assets/screenshots/pembayaran_bendahara.png)
+![Pembayaran_Anggota - ArisanYuk](assets/screenshots/pembayaran_anggota.png)
+
+![Ronde_Admin - ArisanYuk](assets/screenshots/ronde_admin.png)
+![Ronde_Bendahara - ArisanYuk](assets/screenshots/ronde_bendahara.png)
+
+![Notifikasi_Bendahara - ArisanYuk](assets/screenshots/notifikasi_bendahara.png)
+![Notifikasi_Anggota - ArisanYuk](assets/screenshots/notifikasi_anggota.png)
+
+![Profil_Admin - ArisanYuk](assets/screenshots/profil_admin.png)
+![Profil_Bendahara - ArisanYuk](assets/screenshots/profil_bendahara.png)
+![Profil_Anggota - ArisanYuk](assets/screenshots/profil_anggota.png)
+
 
 
 
