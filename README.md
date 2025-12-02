@@ -31,5 +31,5 @@ Tahap pertama untuk menjalankan project ini yaitu mengaktifkan aset styling sepe
 Tahap kedua adalah menjalankan server lokal dengan memanggil prompt php artisan serve.
 
 Preview Tampilan : 
-![Dashboard Bendahara - Statistik Keuangan](assets/screenshots/dashboard_preview.png)
+![Dashboard Bendahara - Statistik Keuangan](assets/screenshots/landing.png)
 
